@@ -7,4 +7,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVicent&layout=compact&langs_count=7&theme=dark"/>
 </div>
 #<br>
-![Snake animation](https://github.com/FernandoVicent/FernandoVicent/blob/main/.github/workflows/blank.yml)
+
+![Snake animation](https://github.com/FernandoVicent/FernandoVicent/blob/output/github-contribution-grid-snake.svg)
