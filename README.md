@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Fernando
-- 🌱 Estudando JavaScript.
+- 🌱 Estudando Python.
 
 <div>
   <a href="https://github.com/FernandoVicent">
