@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Fernando Vicente] 👋</h1>
+<h1 align="center">Olá! Eu sou Fernando Vicente 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil+GitHub!;Sou+desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 ### 🚀 Sobre mim
 
-- 🔧 Desenvolvedor [backend/frontend/fullstack] com experiência em [Python, Django, JavaScript, etc.]
-- 🎯 Atualmente estou trabalhando em: [um sistema de gerenciamentos de chamados]
-- 🌱 Aprendendo mais sobre: [Restful/Django/Python]
-- 💼 Aberto a oportunidades como [freelancer, desenvolvedor backend, etc.]
-- 📫 Contato: [https://www.linkedin.com/in/fernandovicent/]
+- 🔧 Desenvolvedor backend/frontend/fullstack com experiência em Python, Django, JavaScript, etc.
+- 🎯 Atualmente estou trabalhando em um sistema de gerenciamentos de chamados
+- 🌱 Aprendendo mais sobre: Restful/Django/Python
+- 💼 Aberto a oportunidades como freelancer, desenvolvedor backend, etc.
+- 📫 Contato: https://www.linkedin.com/in/fernandovicent/
 
 ---
 
